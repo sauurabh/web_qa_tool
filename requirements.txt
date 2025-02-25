@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+streamlit
+openai
+numpy
+faiss-cpu
+sentence-transformers
+python-dotenv
+setup
+langchain_community
