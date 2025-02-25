@@ -6,5 +6,4 @@ numpy
 faiss-cpu
 sentence-transformers
 python-dotenv
-setup
 langchain_community
